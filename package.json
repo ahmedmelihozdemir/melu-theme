@@ -14,389 +14,384 @@
   "contributes": {
     "themes": [
       {
-        "label": "jatgozic",
+        "label": "Jatgozic Theme Deep Purp",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-color-theme.json"
       },
       {
-        "label": "jatgozic-theme-altica",
+        "label": "Jatgozic Theme altica",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-altica.json"
       },
       {
-        "label": "jatgozic-theme-aquarelle-cymbidium",
+        "label": "Jatgozic Theme aquarelle-cymbidium",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-aquarelle-cymbidium.json"
       },
       {
-        "label": "jatgozic-theme-aquarelle-hydrangea",
+        "label": "Jatgozic Theme aquarelle-hydrangea",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-aquarelle-hydrangea.json"
       },
       {
-        "label": "jatgozic-theme-aquarelle-lilac",
+        "label": "Jatgozic Theme aquarelle-lilac",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-aquarelle-lilac.json"
       },
       {
-        "label": "jatgozic-theme-aquerelle-hydrangea",
+        "label": "Jatgozic Theme aquerelle-hydrangea",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-aquerelle-hydrangea.json"
       },
       {
-        "label": "jatgozic-theme-arc-blueberry-2",
+        "label": "Jatgozic Theme arc-blueberry-2",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-arc-blueberry-2.json"
       },
       {
-        "label": "jatgozic-theme-arc-blueberry",
+        "label": "Jatgozic Theme arc-blueberry",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-arc-blueberry.json"
       },
       {
-        "label": "jatgozic-theme-arc-eggplant",
+        "label": "Jatgozic Theme arc-eggplant",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-arc-eggplant.json"
       },
       {
-        "label": "jatgozic-theme-arc-eolstorm",
+        "label": "Jatgozic Theme arc-eolstorm",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-arc-eolstorm.json"
       },
       {
-        "label": "jatgozic-theme-arc-reversed",
+        "label": "Jatgozic Theme arc-reversed",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-arc-reversed.json"
       },
       {
-        "label": "jatgozic-theme-arc",
+        "label": "Jatgozic Theme arc",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-arc.json"
       },
       {
-        "label": "jatgozic-theme-black-&-amethyst-soft",
+        "label": "Jatgozic Theme black-&-amethyst-soft",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-black-&-amethyst-soft.json"
       },
       {
-        "label": "jatgozic-theme-black-&-amethyst",
+        "label": "Jatgozic Theme black-&-amethyst",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-black-&-amethyst.json"
       },
       {
-        "label": "jatgozic-theme-black-&-diamond-soft",
+        "label": "Jatgozic Theme black-&-diamond-soft",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-black-&-diamond-soft.json"
       },
       {
-        "label": "jatgozic-theme-black-&-diamond",
+        "label": "Jatgozic Theme black-&-diamond",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-black-&-diamond.json"
       },
       {
-        "label": "jatgozic-theme-black-&-emerald-soft",
+        "label": "Jatgozic Theme black-&-emerald-soft",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-black-&-emerald-soft.json"
       },
       {
-        "label": "jatgozic-theme-black-&-emerald",
+        "label": "Jatgozic Theme black-&-emerald",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-black-&-emerald.json"
       },
       {
-        "label": "jatgozic-theme-black-&-gold-soft",
+        "label": "Jatgozic Theme black-&-gold-soft",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-black-&-gold-soft.json"
       },
       {
-        "label": "jatgozic-theme-black-&-gold",
+        "label": "Jatgozic Theme black-&-gold",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-black-&-gold.json"
       },
       {
-        "label": "jatgozic-theme-black-&-ruby-soft",
+        "label": "Jatgozic Theme black-&-ruby-soft",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-black-&-ruby-soft.json"
       },
       {
-        "label": "jatgozic-theme-black-&-ruby",
+        "label": "Jatgozic Theme black-&-ruby",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-black-&-ruby.json"
       },
       {
-        "label": "jatgozic-theme-black-amethyst-soft",
+        "label": "Jatgozic Theme black-amethyst-soft",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-black-amethyst-soft.json"
       },
       {
-        "label": "jatgozic-theme-black-amethyst",
+        "label": "Jatgozic Theme black-amethyst",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-black-amethyst.json"
       },
       {
-        "label": "jatgozic-theme-black-diamond-soft",
+        "label": "Jatgozic Theme black-diamond-soft",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-black-diamond-soft.json"
       },
       {
-        "label": "jatgozic-theme-black-diamond",
+        "label": "Jatgozic Theme black-diamond",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-black-diamond.json"
       },
       {
-        "label": "jatgozic-theme-black-emerald-soft",
+        "label": "Jatgozic Theme black-emerald-soft",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-black-emerald-soft.json"
       },
       {
-        "label": "jatgozic-theme-black-emerald",
+        "label": "Jatgozic Theme black-emerald",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-black-emerald.json"
       },
       {
-        "label": "jatgozic-theme-black-gold-soft",
+        "label": "Jatgozic Theme black-gold-soft",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-black-gold-soft.json"
       },
       {
-        "label": "jatgozic-theme-black-gold",
+        "label": "Jatgozic Theme black-gold",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-black-gold.json"
       },
       {
-        "label": "jatgozic-theme-black-ruby-soft",
+        "label": "Jatgozic Theme black-ruby-soft",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-black-ruby-soft.json"
       },
       {
-        "label": "jatgozic-theme-black-ruby",
+        "label": "Jatgozic Theme black-ruby",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-black-ruby.json"
       },
       {
-        "label": "jatgozic-theme-classics-anthracite",
+        "label": "Jatgozic Theme classics-anthracite",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-classics-anthracite.json"
       },
       {
-        "label": "jatgozic-theme-classics-light",
-        "uiTheme": "vs-dark",
+        "label": "Jatgozic Theme classics-light",
+        "uiTheme": "vs",
         "path": "./themes/jatgozic-theme-classics-light.json"
       },
       {
-        "label": "jatgozic-theme-coffee-cream",
+        "label": "Jatgozic Theme coffee-cream",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-coffee-cream.json"
       },
       {
-        "label": "jatgozic-theme-coffee-reversed",
+        "label": "Jatgozic Theme coffee-reversed",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-coffee-reversed.json"
       },
       {
-        "label": "jatgozic-theme-coffee",
+        "label": "Jatgozic Theme coffee",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-coffee.json"
       },
       {
-        "label": "jatgozic-theme-earth",
+        "label": "Jatgozic Theme earth",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-earth.json"
       },
       {
-        "label": "jatgozic-theme-feat-gold-d-raynh-light",
-        "uiTheme": "vs-dark",
+        "label": "Jatgozic Theme feat-gold-d-raynh-light",
+        "uiTheme": "vs",
         "path": "./themes/jatgozic-theme-feat-gold-d-raynh-light.json"
       },
       {
-        "label": "jatgozic-theme-feat-gold-d-raynh",
+        "label": "Jatgozic Theme feat-gold-d-raynh",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-feat-gold-d-raynh.json"
       },
       {
-        "label": "jatgozic-theme-feat-mellejulie-light",
-        "uiTheme": "vs-dark",
+        "label": "Jatgozic Theme feat-mellejulie-light",
+        "uiTheme": "vs",
         "path": "./themes/jatgozic-theme-feat-mellejulie-light.json"
       },
       {
-        "label": "jatgozic-theme-feat-mellejulie",
+        "label": "Jatgozic Theme feat-mellejulie",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-feat-mellejulie.json"
       },
       {
-        "label": "jatgozic-theme-feat-will",
+        "label": "Jatgozic Theme feat-will",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-feat-will.json"
       },
       {
-        "label": "jatgozic-theme-hc-brewing-storm",
+        "label": "Jatgozic Theme hc-brewing-storm",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-hc-brewing-storm.json"
       },
       {
-        "label": "jatgozic-theme-hc-chocolate-espresso",
+        "label": "Jatgozic Theme hc-chocolate-espresso",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-hc-chocolate-espresso.json"
       },
       {
-        "label": "jatgozic-theme-hc-ebony",
+        "label": "Jatgozic Theme hc-ebony",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-hc-ebony.json"
       },
       {
-        "label": "jatgozic-theme-hc-flurry",
+        "label": "Jatgozic Theme hc-flurry",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-hc-flurry.json"
       },
       {
-        "label": "jatgozic-theme-hc-midnightvoid",
+        "label": "Jatgozic Theme hc-midnightvoid",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-hc-midnightvoid.json"
       },
       {
-        "label": "jatgozic-theme-hc-minuit",
+        "label": "Jatgozic Theme hc-minuit",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-hc-minuit.json"
       },
       {
-        "label": "jatgozic-theme-hc-wonderland-wood",
+        "label": "Jatgozic Theme hc-wonderland-wood",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-hc-wonderland-wood.json"
       },
       {
-        "label": "jatgozic-theme-milkshake-blueberry",
+        "label": "Jatgozic Theme milkshake-blueberry",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-milkshake-blueberry.json"
       },
       {
-        "label": "jatgozic-theme-milkshake-mango",
+        "label": "Jatgozic Theme milkshake-mango",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-milkshake-mango.json"
       },
       {
-        "label": "jatgozic-theme-milkshake-mint",
+        "label": "Jatgozic Theme milkshake-mint",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-milkshake-mint.json"
       },
       {
-        "label": "jatgozic-theme-milkshake-raspberry",
+        "label": "Jatgozic Theme milkshake-raspberry",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-milkshake-raspberry.json"
       },
       {
-        "label": "jatgozic-theme-milkshake-vanilla",
+        "label": "Jatgozic Theme milkshake-vanilla",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-milkshake-vanilla.json"
       },
       {
-        "label": "jatgozic-theme-monokai-black",
+        "label": "Jatgozic Theme monokai-black",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-monokai-black.json"
       },
       {
-        "label": "jatgozic-theme-monokai-metallian",
+        "label": "Jatgozic Theme monokai-metallian",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-monokai-metallian.json"
       },
       {
-        "label": "jatgozic-theme-monokai-reversed",
+        "label": "Jatgozic Theme monokai-reversed",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-monokai-reversed.json"
       },
       {
-        "label": "jatgozic-theme-monokai-stone",
+        "label": "Jatgozic Theme monokai-stone",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-monokai-stone.json"
       },
       {
-        "label": "jatgozic-theme-monokai-terra",
+        "label": "Jatgozic Theme monokai-terra",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-monokai-terra.json"
       },
       {
-        "label": "jatgozic-theme-oceanic-reversed",
+        "label": "Jatgozic Theme oceanic-reversed",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-oceanic-reversed.json"
       },
       {
-        "label": "jatgozic-theme-oceanic",
+        "label": "Jatgozic Theme oceanic",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-oceanic.json"
       },
       {
-        "label": "jatgozic-theme-solarized-dark",
+        "label": "Jatgozic Theme solarized-dark",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-solarized-dark.json"
       },
       {
-        "label": "jatgozic-theme-solarized-light",
-        "uiTheme": "vs-dark",
+        "label": "Jatgozic Theme solarized-light",
+        "uiTheme": "vs",
         "path": "./themes/jatgozic-theme-solarized-light.json"
       },
       {
-        "label": "jatgozic-theme-solarized-reversed",
+        "label": "Jatgozic Theme solarized-reversed",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-solarized-reversed.json"
       },
       {
-        "label": "jatgozic-theme-stained-blue",
+        "label": "Jatgozic Theme stained-blue",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-stained-blue.json"
       },
       {
-        "label": "jatgozic-theme-stained-purple",
+        "label": "Jatgozic Theme stained-purple",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-stained-purple.json"
       },
       {
-        "label": "jatgozic-theme-surprising-blueberry",
+        "label": "Jatgozic Theme surprising-blueberry",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-surprising-blueberry.json"
       },
       {
-        "label": "jatgozic-theme-surprising-eggplant",
+        "label": "Jatgozic Theme surprising-eggplant",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-surprising-eggplant.json"
       },
       {
-        "label": "jatgozic-theme-surprising-watermelon",
+        "label": "Jatgozic Theme surprising-watermelon",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-surprising-watermelon.json"
       },
       {
-        "label": "jatgozic-theme-Themanopia",
+        "label": "Jatgozic Theme Themanopia",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-Themanopia.json"
       },
       {
-        "label": "jatgozic-theme-vivid-black",
+        "label": "Jatgozic Theme vivid-black",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-vivid-black.json"
       },
       {
-        "label": "jatgozic-theme-vivid-light",
-        "uiTheme": "vs-dark",
+        "label": "Jatgozic Theme vivid-light",
+        "uiTheme": "vs",
         "path": "./themes/jatgozic-theme-vivid-light.json"
       },
       {
-        "label": "jatgozic-theme-vivid-purple",
+        "label": "Jatgozic Theme vivid-purple",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-vivid-purple.json"
       },
       {
-        "label": "jatgozic-theme-void",
+        "label": "Jatgozic Theme void",
         "uiTheme": "vs-dark",
         "path": "./themes/jatgozic-theme-void.json"
       },
       {
-        "label": "jatgozic-theme",
-        "uiTheme": "vs-dark",
+        "label": "Jatgozic Theme High Contrast",
+        "uiTheme": "hc-black",
         "path": "./themes/jatgozic-theme.json"
-      },
-      {
-        "label": "JTGZCarba-color-theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/JTGZCarba-color-theme.json"
       }
     ]
   }

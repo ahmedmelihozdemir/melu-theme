@@ -4,6 +4,7 @@
   "description": "VSCode theme",
   "version": "0.0.1",
   "publisher": "Melih Ozdemir",
+  "license": "GPL-3.0-only",
   "engines": {
     "vscode": "^1.89.0"
   },

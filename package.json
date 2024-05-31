@@ -3,7 +3,7 @@
   "displayName": "Jatgozic",
   "description": "VSCode theme",
   "version": "0.0.1",
-  "publisher": "Melih Ozdemir",
+  "publisher": "MelihOzdemir",
   "license": "GPL-3.0-only",
   "engines": {
     "vscode": "^1.89.0"

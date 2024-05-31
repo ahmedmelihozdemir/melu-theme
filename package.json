@@ -1,0 +1,401 @@
+{
+  "name": "jatgozic",
+  "displayName": "Jatgozic",
+  "description": "VSCode theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "jatgozic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-color-theme.json"
+      },
+      {
+        "label": "jatgozic-theme-altica",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-altica.json"
+      },
+      {
+        "label": "jatgozic-theme-aquarelle-cymbidium",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-aquarelle-cymbidium.json"
+      },
+      {
+        "label": "jatgozic-theme-aquarelle-hydrangea",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-aquarelle-hydrangea.json"
+      },
+      {
+        "label": "jatgozic-theme-aquarelle-lilac",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-aquarelle-lilac.json"
+      },
+      {
+        "label": "jatgozic-theme-aquerelle-hydrangea",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-aquerelle-hydrangea.json"
+      },
+      {
+        "label": "jatgozic-theme-arc-blueberry-2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-arc-blueberry-2.json"
+      },
+      {
+        "label": "jatgozic-theme-arc-blueberry",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-arc-blueberry.json"
+      },
+      {
+        "label": "jatgozic-theme-arc-eggplant",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-arc-eggplant.json"
+      },
+      {
+        "label": "jatgozic-theme-arc-eolstorm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-arc-eolstorm.json"
+      },
+      {
+        "label": "jatgozic-theme-arc-reversed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-arc-reversed.json"
+      },
+      {
+        "label": "jatgozic-theme-arc",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-arc.json"
+      },
+      {
+        "label": "jatgozic-theme-black-&-amethyst-soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-black-&-amethyst-soft.json"
+      },
+      {
+        "label": "jatgozic-theme-black-&-amethyst",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-black-&-amethyst.json"
+      },
+      {
+        "label": "jatgozic-theme-black-&-diamond-soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-black-&-diamond-soft.json"
+      },
+      {
+        "label": "jatgozic-theme-black-&-diamond",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-black-&-diamond.json"
+      },
+      {
+        "label": "jatgozic-theme-black-&-emerald-soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-black-&-emerald-soft.json"
+      },
+      {
+        "label": "jatgozic-theme-black-&-emerald",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-black-&-emerald.json"
+      },
+      {
+        "label": "jatgozic-theme-black-&-gold-soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-black-&-gold-soft.json"
+      },
+      {
+        "label": "jatgozic-theme-black-&-gold",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-black-&-gold.json"
+      },
+      {
+        "label": "jatgozic-theme-black-&-ruby-soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-black-&-ruby-soft.json"
+      },
+      {
+        "label": "jatgozic-theme-black-&-ruby",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-black-&-ruby.json"
+      },
+      {
+        "label": "jatgozic-theme-black-amethyst-soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-black-amethyst-soft.json"
+      },
+      {
+        "label": "jatgozic-theme-black-amethyst",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-black-amethyst.json"
+      },
+      {
+        "label": "jatgozic-theme-black-diamond-soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-black-diamond-soft.json"
+      },
+      {
+        "label": "jatgozic-theme-black-diamond",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-black-diamond.json"
+      },
+      {
+        "label": "jatgozic-theme-black-emerald-soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-black-emerald-soft.json"
+      },
+      {
+        "label": "jatgozic-theme-black-emerald",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-black-emerald.json"
+      },
+      {
+        "label": "jatgozic-theme-black-gold-soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-black-gold-soft.json"
+      },
+      {
+        "label": "jatgozic-theme-black-gold",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-black-gold.json"
+      },
+      {
+        "label": "jatgozic-theme-black-ruby-soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-black-ruby-soft.json"
+      },
+      {
+        "label": "jatgozic-theme-black-ruby",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-black-ruby.json"
+      },
+      {
+        "label": "jatgozic-theme-classics-anthracite",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-classics-anthracite.json"
+      },
+      {
+        "label": "jatgozic-theme-classics-light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-classics-light.json"
+      },
+      {
+        "label": "jatgozic-theme-coffee-cream",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-coffee-cream.json"
+      },
+      {
+        "label": "jatgozic-theme-coffee-reversed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-coffee-reversed.json"
+      },
+      {
+        "label": "jatgozic-theme-coffee",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-coffee.json"
+      },
+      {
+        "label": "jatgozic-theme-earth",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-earth.json"
+      },
+      {
+        "label": "jatgozic-theme-feat-gold-d-raynh-light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-feat-gold-d-raynh-light.json"
+      },
+      {
+        "label": "jatgozic-theme-feat-gold-d-raynh",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-feat-gold-d-raynh.json"
+      },
+      {
+        "label": "jatgozic-theme-feat-mellejulie-light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-feat-mellejulie-light.json"
+      },
+      {
+        "label": "jatgozic-theme-feat-mellejulie",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-feat-mellejulie.json"
+      },
+      {
+        "label": "jatgozic-theme-feat-will",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-feat-will.json"
+      },
+      {
+        "label": "jatgozic-theme-hc-brewing-storm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-hc-brewing-storm.json"
+      },
+      {
+        "label": "jatgozic-theme-hc-chocolate-espresso",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-hc-chocolate-espresso.json"
+      },
+      {
+        "label": "jatgozic-theme-hc-ebony",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-hc-ebony.json"
+      },
+      {
+        "label": "jatgozic-theme-hc-flurry",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-hc-flurry.json"
+      },
+      {
+        "label": "jatgozic-theme-hc-midnightvoid",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-hc-midnightvoid.json"
+      },
+      {
+        "label": "jatgozic-theme-hc-minuit",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-hc-minuit.json"
+      },
+      {
+        "label": "jatgozic-theme-hc-wonderland-wood",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-hc-wonderland-wood.json"
+      },
+      {
+        "label": "jatgozic-theme-milkshake-blueberry",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-milkshake-blueberry.json"
+      },
+      {
+        "label": "jatgozic-theme-milkshake-mango",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-milkshake-mango.json"
+      },
+      {
+        "label": "jatgozic-theme-milkshake-mint",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-milkshake-mint.json"
+      },
+      {
+        "label": "jatgozic-theme-milkshake-raspberry",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-milkshake-raspberry.json"
+      },
+      {
+        "label": "jatgozic-theme-milkshake-vanilla",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-milkshake-vanilla.json"
+      },
+      {
+        "label": "jatgozic-theme-monokai-black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-monokai-black.json"
+      },
+      {
+        "label": "jatgozic-theme-monokai-metallian",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-monokai-metallian.json"
+      },
+      {
+        "label": "jatgozic-theme-monokai-reversed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-monokai-reversed.json"
+      },
+      {
+        "label": "jatgozic-theme-monokai-stone",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-monokai-stone.json"
+      },
+      {
+        "label": "jatgozic-theme-monokai-terra",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-monokai-terra.json"
+      },
+      {
+        "label": "jatgozic-theme-oceanic-reversed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-oceanic-reversed.json"
+      },
+      {
+        "label": "jatgozic-theme-oceanic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-oceanic.json"
+      },
+      {
+        "label": "jatgozic-theme-solarized-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-solarized-dark.json"
+      },
+      {
+        "label": "jatgozic-theme-solarized-light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-solarized-light.json"
+      },
+      {
+        "label": "jatgozic-theme-solarized-reversed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-solarized-reversed.json"
+      },
+      {
+        "label": "jatgozic-theme-stained-blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-stained-blue.json"
+      },
+      {
+        "label": "jatgozic-theme-stained-purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-stained-purple.json"
+      },
+      {
+        "label": "jatgozic-theme-surprising-blueberry",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-surprising-blueberry.json"
+      },
+      {
+        "label": "jatgozic-theme-surprising-eggplant",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-surprising-eggplant.json"
+      },
+      {
+        "label": "jatgozic-theme-surprising-watermelon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-surprising-watermelon.json"
+      },
+      {
+        "label": "jatgozic-theme-Themanopia",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-Themanopia.json"
+      },
+      {
+        "label": "jatgozic-theme-vivid-black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-vivid-black.json"
+      },
+      {
+        "label": "jatgozic-theme-vivid-light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-vivid-light.json"
+      },
+      {
+        "label": "jatgozic-theme-vivid-purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-vivid-purple.json"
+      },
+      {
+        "label": "jatgozic-theme-void",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme-void.json"
+      },
+      {
+        "label": "jatgozic-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jatgozic-theme.json"
+      },
+      {
+        "label": "JTGZCarba-color-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JTGZCarba-color-theme.json"
+      }
+    ]
+  }
+}
